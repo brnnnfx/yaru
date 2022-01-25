@@ -461,7 +461,6 @@
 ./status/network-wired-acquiring-symbolic.svg
 ./status/network-wired-disconnected-symbolic.svg
 ./status/network-wired-no-route-symbolic.svg
-./status/network-wired-offline-symbolic.svg
 ./status/network-wireless-acquiring-symbolic.svg
 ./status/network-wireless-connected-symbolic.svg
 ./status/network-wireless-disabled-symbolic.svg
@@ -495,6 +494,7 @@
 ./status/security-high-symbolic.svg
 ./status/security-low-symbolic.svg
 ./status/security-medium-symbolic.svg
+./status/semi-starred-rtl-symbolic.svg
 ./status/semi-starred-symbolic.svg
 ./status/software-update-available-symbolic.svg
 ./status/software-update-urgent-symbolic.svg
@@ -514,6 +514,7 @@
 ./status/user-offline-symbolic.svg
 ./status/user-status-pending-symbolic.svg
 ./status/user-trash-full-symbolic.svg
+./status/view-wrapped-rtl-symbolic.svg
 ./status/view-wrapped-symbolic.svg
 ./status/weather-clear-night-symbolic.svg
 ./status/weather-clear-symbolic.svg
